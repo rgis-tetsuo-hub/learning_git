@@ -1,2 +1,10 @@
 R for Spatial Analysis and Mapping
 Programming for data science
+Interactive Web-Based DataVisualization with R, plotly, and shiny
+Oxford Advanced Learner's Dictionary 8th edition
+Book 001
+Book 002
+Book 003
+Book 004
+Book 005
+Book 006
