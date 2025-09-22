@@ -8,3 +8,6 @@ Book 003
 Book 004
 Book 005
 Book 006
+Book 009
+Book 010
+Book 011
